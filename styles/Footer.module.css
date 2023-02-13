@@ -1,0 +1,20 @@
+.footer{
+    position: absolute;
+    bottom:0px;
+    height: 40px;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+
+.bar{
+    height: 100%;
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border:1px solid grey;
+    position:relative;
+}
